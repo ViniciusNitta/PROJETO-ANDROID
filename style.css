@@ -127,6 +127,8 @@ div.video {
     background-color: var(--cor6);
     padding: 20px;
     border-radius: 10px;
+    max-width: 800px;
+    min-width: 300px;
 }
 iframe {
     width: 100%;
